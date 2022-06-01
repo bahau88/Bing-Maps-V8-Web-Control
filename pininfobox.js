@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+
 <script type='text/javascript' 
    src='http://www.bing.com/api/maps/mapcontrol?callback=GetMap' 
    async defer>
@@ -94,3 +100,9 @@ function AddData() {
         }
     }
 </script>
+
+</head>
+<body>
+    <div id="myMap" style="position:relative;width:600px;height:400px;"></div>
+</body>
+</html>
